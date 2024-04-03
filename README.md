@@ -1,4 +1,4 @@
-# Project Nam: Data_Adventure
+# Project Name: My-First-Data-Analysis-Repo
 
 --------
 # Project Objective: Problem Statement
